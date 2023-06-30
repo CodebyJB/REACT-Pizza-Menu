@@ -9,6 +9,17 @@ The main features include:
     * Pizza information such as name, ingredients, price, and availability is passed to the components using props.
     * The menu dynamically renders the pizza components based on the provided data.
 
+## Technologies Used:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Demo:
+
+View project demo at https://jb-pizza-menu.netlify.app/
+
 ## Prerequisites
 
 Before running this project, make sure you have the following installed:
